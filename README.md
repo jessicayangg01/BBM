@@ -1,0 +1,3 @@
+# BBM
+
+Description: BBM stands for Black Businesses Matter. In our society today, the black community is one of the most disenfranchised groups and face countless barriers and obstacles, especially in the business world. Whether it is the glass ceiling that prevents black employees from reaching positions of power or the ingrained racial bias that stand in the way for black-owned businesses to reach success, it is no wonder that, even today,  the most prominent members of the business world are almost entirely white. It is with that precedent in mind that we look to launch ‘Black Businesses Matter’, or BBM for short.
